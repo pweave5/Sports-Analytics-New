@@ -1,7 +1,7 @@
 This repository contains several projects covering a wide variety of machine learning and data analysis topics. Throughout this class we utilized NFL play-by-play data to develop 
 different models and build our projects. The topics covered in this Repository are:
 
- - [EDA of Past Seasons](Sports-Analytics-New/Past_Season_Analysis)
+ - [EDA of Past Seasons](Past Seasons Analysis)
  - [Simple Linear Regression](Sports-Analytics-New/SLR_Analysis.ipynb)
  - [First Down Prediction with Logistic Regression](Sports-Analytics-New/First_Down_Prediction.ipynb)
  - [Interception Prediction with Poisson Regression](Sports-Analytics-New/Interception_Poisson_Regression.ipynb)
