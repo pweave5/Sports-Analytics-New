@@ -1,3 +1,4 @@
+# Linear Regression from Stratch
 The goal of this lab was to familiarize myself with building a machine learning model from scratch. In this lab I create three functions to do Simple Linear Regression: 
 
 - One that takes in a vector of x values and a vector of y values and returns the line of best fit
