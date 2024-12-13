@@ -12,4 +12,4 @@ different models and build our projects. The topics covered in this Repository a
 
 Throughout this course, I developed my skills in data preperation and visualization, gained more experience using common modeling techniques such as SLR, Logistic Regression, and Poisson Regression, and learned how to leverage data hosted online with the help of web scraping. The majority of these notebooks were written in R, while a couple were written in Python. These projects were created with data I accessed through the NFL APIs [nflfastR](https://www.nflfastr.com/) and [nfl-data-py](https://pypi.org/project/nfl-data-py/).
 
-![](https://tenor.com/view/miami-dolphins-nfl-team-celebration-defense-dance-defense-gif-1371855227568336820)
+![](https://giphy.com/embed/PfzOQfkhSBHJO3CABC)
