@@ -7,6 +7,6 @@ different models and build our projects. The topics covered in this Repository a
  - [Interception Prediction with Poisson Regression](Sports-Analytics-New/Poisson_Regression/)
  - [Web Scraping](Sports-Analytics-New/Web_Scraping/)
  - [Principal Component Analysis and Clustering with NFL Combine Data](Sports-Analytics-New/PCA_and_Clustering/)
- - [Building Regression Model from Scratch](Sports-Analytics-New/Linear_Regression_From_Stratch)
+ - [Building Regression Model from Scratch](Linear_Regression_From_Stratch/)
 
 Throughout this course, I developed my skills in data preperation and visualization, gained more experience using common modeling techniques such as SLR, Logistic Regression, and Poisson Regression, and learned how to leverage data hosted online with the help of web scraping. The majority of these notebooks were written in R, while a couple were written in Python. These projects were created with data I accessed through the NFL APIs [nflfastR](https://www.nflfastr.com/) and [nfl-data-py](https://pypi.org/project/nfl-data-py/).
