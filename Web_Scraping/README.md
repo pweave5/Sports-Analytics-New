@@ -1,1 +1,2 @@
-
+# Web Scraping
+In this workbook I use the technique of web scraping to analyze NFL draft and combine data. The data I scraped was from [Pro Football Reference](https://www.pro-football-reference.com/). In this workbook I explore the concept of if it is possible to predict whether or not a Wide Receiver has a top 50% career or a bottom 50% career. Using draft position and other combine data, the logistic regression model returns whether the player will have an above-median career or below-median career.
